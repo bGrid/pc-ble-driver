@@ -1,6 +1,3 @@
-trigger:
-  - feature/azure-devops-builds
-
 variables:
   CONFIGURATION: 'Debug'
   NRF_BLE_DRIVER_VERSION: '4.1.0'
